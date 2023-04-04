@@ -1,2 +1,2 @@
-# exercicios_do_uri
-Repositório destinado a exercicios do uri
+# Exercícios do URI
+Repositório destinado a exercicios do URI
